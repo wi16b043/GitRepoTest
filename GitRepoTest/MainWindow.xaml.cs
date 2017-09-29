@@ -23,6 +23,7 @@ namespace GitRepoTest
     public MainWindow()
     {
       InitializeComponent();
+      // First commit for Branch A 
     }
   }
 }
