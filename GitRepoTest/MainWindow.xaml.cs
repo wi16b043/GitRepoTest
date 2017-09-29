@@ -23,6 +23,7 @@ namespace GitRepoTest
     public MainWindow()
     {
       InitializeComponent();
+      // Test commit for master
     }
   }
 }
